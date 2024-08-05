@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**Lincoln32110/Lincoln32110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é lincoln
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espacp para minha oreganização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo📫
+
+0000111405012xsp@al.educacao.gov.br
+
+@Lincoln32110
+
+![](https://media1.tenor.com/m/MpTy4knnxe8AAAAd/lebron-james-king-james.gif)
+https://media1.tenor.com/m/MpTy4knnxe8AAAAd/lebron-james-king-james.gif
